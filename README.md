@@ -65,5 +65,5 @@ This repository is open-source under the MIT License.
 ## Acknowledgments
 - OpenAI's **Guided Diffusion** repository
 - Sentinel-2 satellite data sources
-- Leon Pielage repository
+- Repository of Leon Pielage 
 
