@@ -57,7 +57,7 @@ python create_map.py
 This work is inspired by OpenAI's diffusion model and Sentinel-2 satellite imagery processing.
 
 ## Author
-**Aleksandra Jastrzębska** - Master’s student in **Geospatial Technologies** (Erasmus Mundus)
+**Aleksandra Jastrzębska** - Master in **Geospatial Technologies** (Erasmus Mundus)
 
 ## License
 This repository is open-source under the MIT License.
